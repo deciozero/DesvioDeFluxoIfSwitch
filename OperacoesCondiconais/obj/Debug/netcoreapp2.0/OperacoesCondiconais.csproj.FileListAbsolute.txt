@@ -1,0 +1,10 @@
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\bin\Debug\netcoreapp2.0\OperacoesCondiconais.deps.json
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\bin\Debug\netcoreapp2.0\OperacoesCondiconais.runtimeconfig.json
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\bin\Debug\netcoreapp2.0\OperacoesCondiconais.runtimeconfig.dev.json
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\bin\Debug\netcoreapp2.0\OperacoesCondiconais.dll
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\bin\Debug\netcoreapp2.0\OperacoesCondiconais.pdb
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\obj\Debug\netcoreapp2.0\OperacoesCondiconais.csproj.CoreCompileInputs.cache
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\obj\Debug\netcoreapp2.0\OperacoesCondiconais.AssemblyInfoInputs.cache
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\obj\Debug\netcoreapp2.0\OperacoesCondiconais.AssemblyInfo.cs
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\obj\Debug\netcoreapp2.0\OperacoesCondiconais.dll
+C:\Users\edecio.sgomes\logica\DesvioDeFluxo\OperacoesCondiconais\obj\Debug\netcoreapp2.0\OperacoesCondiconais.pdb
